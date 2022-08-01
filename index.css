@@ -23,7 +23,7 @@ body{
     justify-content: center;
     align-items: center;
   
-    background-color: #467599;/*#467599;*/
+    background-color: ##f04141;/*#467599;*/
     border-bottom: 5px solid #fff;
     box-shadow: 0 0 30px -18px #D64045;
   
@@ -102,7 +102,7 @@ body{
   #join_button{
     width: 60%;
     height: 40px;
-  
+  border-radius:10px;
     font-family: Varela Round;
     font-size: 15px;
     font-weight: bold;
